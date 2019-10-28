@@ -14,13 +14,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.3",
-        "symfony/console": "2.*",
-        "symfony/yaml": "2.*",
+        "symfony/console": "dev-master",
         "doctrine/migrations": "dev-master"
-    },
-    "suggest": {
-        "zendframework/zendframework": "2.0.*"
     },
     "bin": [
         "bin/doctrine"
